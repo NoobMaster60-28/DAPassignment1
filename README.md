@@ -1,2 +1,1 @@
-# DAPassignment1
-Dap assignments
+This repo contains 131 basic python programs that are easy to learn. If you are wondering why one more program is not done, then understand that the iceberg is much deeper than it seems....
